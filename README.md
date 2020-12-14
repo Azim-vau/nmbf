@@ -3,9 +3,9 @@
 
 
 <h1 align="center"> |MR.ERROR|</h1> <br>
-<h1 align="center"> |SMBF|</h2>
+<h1 align="center"> |NMBF|</h2>
 <p align="center">
-      A new international facebook account cracker tool for termux users
+     NUMBER BRUTE FORCE FB
 </p>
 
 
@@ -24,7 +24,7 @@ $ pip2 install mechanize
 $ pip2 install bs4
 $ pkg install git
 $ git clone https://github.com/Azim-vau/nmbf.git
-$ cd smbf
+$ cd nmbf
 $ python2 nmbf.py
 ```
 
